@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Danjunio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Danjunio/Danjunio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey! here is an API that will allow you to manage byour book library very easily ❤❤
+by Danjunio ___AIA__Togo student.
+##15/02/22 | 00:5AM
