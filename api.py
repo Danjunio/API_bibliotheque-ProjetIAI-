@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Danjunio 
-standre-hue
-/
-flask-bibliotheque2
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-flask-bibliotheque2/app.py /
-@standre-hue
-standre-hue Update app.py
-Latest commit 02e9529 yesterday
- History
- 1 contributor
-191 lines (149 sloc)  5.76 KB
-   
 from flask import Flask,render_template,jsonify,request
 from flask_sqlalchemy import SQLAlchemy
 import json
@@ -217,15 +189,3 @@ db.create_all()
 # s Livre(db.Model):
 if __name__ == "__main__":
 	app.run()
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
